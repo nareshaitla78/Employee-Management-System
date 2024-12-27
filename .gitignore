@@ -22,6 +22,6 @@ app/.eslintignore
 app/.eslintrc.cjs
 app/package.json
 app/postcss.config.js
-app/quasar.config.js
+# app/quasar.config.js
 app/.gitignore
 app/src/boot/.gitkeep
